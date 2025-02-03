@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+__pycache__/
+node_modules/
+.env
+
+# Archivos específicos de Django (Back-End)
+db.sqlite3
+
+# Archivos específicos de Angular (Front-End)
+dist/
